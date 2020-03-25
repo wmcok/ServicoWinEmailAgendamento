@@ -1,0 +1,17 @@
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\SoftEmailAgendamento.exe.config
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\SoftEmailAgendamento.exe
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\SoftEmailAgendamento.pdb
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\SoftEmailAgendamento.xml
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\EntityFramework.dll
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\EntityFramework.xml
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.vbprojAssemblyReference.cache
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.Resources.resources
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.ProjectInstaller.resources
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.SoftEmailAgendamento.resources
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.vbproj.GenerateResource.cache
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.vbproj.CopyComplete
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.exe
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.xml
+E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\obj\Debug\SoftEmailAgendamento.pdb

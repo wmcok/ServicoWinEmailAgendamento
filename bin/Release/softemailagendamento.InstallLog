@@ -1,0 +1,176 @@
+﻿Instalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\softemailagendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\softemailagendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\softemailagendamento.exe
+Instalando o serviço SoftEmailAgendamento...
+Criando a origem de EventLog SoftEmailAgendamento no log Application...
+Revertendo o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\softemailagendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\softemailagendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\softemailagendamento.exe
+Restaurando o log de eventos para o estado anterior da origem SoftEmailAgendamento.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Revertendo o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Revertendo o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Revertendo o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Aviso: a origem SoftEmailAgendamento não está registrada no computador local.
+Serviço SoftEmailAgendamento está sendo removido do sistema...
+Serviço SoftEmailAgendamento foi removido com êxito do sistema.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Aviso: a origem SoftEmailAgendamento não está registrada no computador local.
+Serviço SoftEmailAgendamento está sendo removido do sistema...
+Serviço SoftEmailAgendamento foi removido com êxito do sistema.
+Desinstalando o assembly 'E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.InstallLog
+   assemblypath = E:\VisualStudio\SoftEmailAgendamento\SoftEmailAgendamento\bin\Release\SoftEmailAgendamento.exe
+Removendo a origem do EventLog SoftEmailAgendamento.
+Aviso: a origem SoftEmailAgendamento não está registrada no computador local.
+Serviço SoftEmailAgendamento está sendo removido do sistema...
+Serviço SoftEmailAgendamento foi removido com êxito do sistema.
+Tentativa de parar o serviço SoftEmailAgendamento.
